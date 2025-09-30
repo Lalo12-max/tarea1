@@ -57,11 +57,11 @@ npm run deploy
 ```
 
 ## Dependencias principales
-React: Biblioteca para construir interfaces de usuario
-React Router: Navegación entre páginas
-Workbox: Herramientas para crear aplicaciones web progresivas
-Estructura del proyecto
-PlainText
+- React: Biblioteca para construir interfaces de usuario
+- React Router: Navegación entre páginas
+- Workbox: Herramientas para crear aplicaciones web progresivas
+- Estructura del proyecto
+- PlainText
 
 ## Estructura del proyecto
 tarea1/
